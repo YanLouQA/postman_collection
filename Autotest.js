@@ -1,4 +1,4 @@
-// Autotest for https://swapi.dev/ (website about "Star Wars")
+// Autotests for https://swapi.dev/ (website about "Star Wars")
 
 
 // Character:
