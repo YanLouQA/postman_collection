@@ -46,6 +46,7 @@ pm.test("API response contains the expected fields", () => {
   pm.expect(response).to.have.nested.property("orbital_period", "402");
 });
 
+
 // Starship:
 
 pm.test("Starship is Sentinel-class landing craft", () => {
